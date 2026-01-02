@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "'/Users/beausterling/Downloads/nucampsite/coffeeshop'",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
