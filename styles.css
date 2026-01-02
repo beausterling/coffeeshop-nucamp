@@ -1,4 +1,14 @@
+/* CSS Variables */
+:root {
+  --bg-color: #f7f3ef;        /* off-white background */
+  --text-color: #4b3621;      /* dark coffee brown */
+  --accent-color: #c19a6b;    /* golden brown accent */
+  --font-body: 'Roboto', sans-serif;
+  --font-heading: 'Playfair Display', serif;
+}
+
 /* Global styles */
+
 body {
   margin: 0;
   padding: 0;
